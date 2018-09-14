@@ -4,13 +4,24 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
+    <!--fab-->
     <dimen name="fab_elevation">4dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
+    <!--article list activity-->
     <dimen name="toolbar_height">60dp</dimen>
     <dimen name="toolbar_container_elevation">4dp</dimen>
     <dimen name="recyclerview_top_padding">64dp</dimen>
     <dimen name="recyclerview_bottom_padding">28dp</dimen>
+
+    <!--article item in article list-->
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+    <dimen name="cardview_thumbnail_height">100dp</dimen>
+    <dimen name="cardview_title_height">70dp</dimen>
+    <dimen name="cardview_title_padding">16dp</dimen>
+    <dimen name="cardview_title_padding_bottom">4dp</dimen>
+    <dimen name="cardview_subtitle_padding">16dp</dimen>
 
 </resources>
