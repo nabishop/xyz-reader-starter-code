@@ -9,4 +9,7 @@
 
     <string name="up">Up</string>
 
+    //activity list xml
+    <string name="content_photo">Content Photo List View</string>
+
 </resources>
