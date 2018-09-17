@@ -24,4 +24,12 @@
     <dimen name="cardview_title_padding_bottom">4dp</dimen>
     <dimen name="cardview_subtitle_padding">16dp</dimen>
 
+    <!--fragment article detail-->
+    <dimen name="collapsing_toolbar_margin_start">12dp</dimen>
+    <dimen name="collapsing_toolbar_margin_bottom">48dp</dimen>
+    <dimen name="detail_collapsed_title_text_size">24sp</dimen>
+    <dimen name="detail_widget_toolbar_height">100dp</dimen>
+    <dimen name="detail_widget_padding_top">24dp</dimen>
+    <dimen name="fab_diameter">56dp</dimen>
+
 </resources>

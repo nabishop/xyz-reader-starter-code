@@ -24,4 +24,7 @@
     <color name="ltgray">#ffe0e0e0</color>
     <color name="black">#000000</color>
     <color name="dark_gray">#575757</color>
+    <color name="detail_article_byline">#212121</color>
+    <color name="detail_article_byline_text">#000000</color>
+    <color name="white">#FFFFFF</color>
 </resources>
